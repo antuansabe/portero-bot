@@ -1,6 +1,6 @@
 # 🤖 Portero Digital: Azure AI Bot Service
 
-[![Deploy to Azure](https://github.com/TU_USUARIO/portero-bot/actions/workflows/main.yml/badge.svg)](https://github.com/TU_USUARIO/portero-bot/actions)
+[![Deploy to Azure](https://github.com/antuansabe/portero-bot/actions/workflows/main.yml/badge.svg)](https://github.com/antuansabe/portero-bot/actions)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
